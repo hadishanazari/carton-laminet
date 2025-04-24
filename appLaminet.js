@@ -4,6 +4,7 @@
 // let btnPrev = document.getElementById("btnPrev");
 // let all = document.querySelectorAll(".item");
 
+
 // // console.log(all);
 
 // let n = all.length;
